@@ -4,7 +4,7 @@ Please opne the window from "Mochineko/Script Creator" from menu bar on your Uni
 
 Please write
 - Header
-- References (like "using ...")
+- References
 - Name Space
 - Accessibility
 - Object Type
