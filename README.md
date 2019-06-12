@@ -16,3 +16,4 @@ Then you "Right Click" on the project window,
 chose "Create/Mochineko/C Sharp Script"
 and enter new file name.
 
+Its license is MIT.
