@@ -1,0 +1,11 @@
+﻿#HEADER#
+
+#REFERENCE#
+
+namespace #NAMESPACE#
+{
+	#ACCESSIBILITY# #OBJECTTYPE# #SCRIPTNAME#
+	{
+		#STATEMENT#
+	}
+}
